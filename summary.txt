@@ -1,0 +1,2 @@
+summary on the tensorflow with python using the videos in videoa/youtube folder or from sentdex vloger tensorflow videos
+
